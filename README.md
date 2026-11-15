@@ -67,7 +67,7 @@ By completing this repository, you will be able to:
 
 ```bash
 # Clone your repository
-git clone https://github.com/YOUR_USERNAME/linux-server-administration-and-networking.git
+git clone https://github.com/info-ashenrsh/linux-server-administration-and-networking.git
 cd linux-server-administration-and-networking
 
 # Inspect the project
