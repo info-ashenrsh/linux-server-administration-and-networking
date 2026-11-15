@@ -1,0 +1,17 @@
+# Private keys and credentials
+*.pem
+*.key
+id_rsa
+id_ed25519
+.env
+.env.*
+!.env.example
+credentials*
+secrets*
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
