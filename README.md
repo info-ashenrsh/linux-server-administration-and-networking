@@ -103,7 +103,7 @@ See [`11-final-project/README.md`](11-final-project/README.md).
 
 ## Author
 
-K.W.A.R. Karunarathna
-Student
-Github : https://github.com/info-ashenrsh/
+- K.W.A.R. Karunarathna
+- Student
+- Github : https://github.com/info-ashenrsh/
 
