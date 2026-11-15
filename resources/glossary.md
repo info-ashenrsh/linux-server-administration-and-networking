@@ -1,0 +1,27 @@
+# Glossary
+
+- **CLI:** Command-line interface.
+- **Linux distribution:** An operating system built around the Linux kernel and a collection of user-space software.
+- **Shell:** Program that interprets commands, such as Bash.
+- **Root:** Linux superuser account.
+- **sudo:** Tool for running permitted commands with elevated privileges.
+- **UID:** User identifier.
+- **GID:** Group identifier.
+- **Permission:** Access rights such as read, write, and execute.
+- **Process:** A running program instance.
+- **PID:** Process identifier.
+- **systemd:** Common Linux init and service manager.
+- **SSH:** Encrypted protocol for remote login and command execution.
+- **Public key:** Key that can be shared and installed on a server for public-key authentication.
+- **Private key:** Secret key that must be protected.
+- **IP address:** Network-layer address assigned to an interface.
+- **CIDR:** Notation for an IP address prefix and network size.
+- **DNS:** Domain Name System; resolves names to records.
+- **TCP:** Reliable, connection-oriented transport protocol.
+- **UDP:** Connectionless transport protocol.
+- **Port:** Number identifying an application endpoint.
+- **Firewall:** Rules that allow or block network traffic.
+- **UFW:** Uncomplicated Firewall, a host firewall management tool.
+- **NSG:** Azure Network Security Group.
+- **VM:** Virtual machine.
+- **Nginx:** Web server and reverse proxy.
