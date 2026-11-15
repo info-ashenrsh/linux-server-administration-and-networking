@@ -103,4 +103,7 @@ See [`11-final-project/README.md`](11-final-project/README.md).
 
 ## Author
 
-Add your name, course, university, or portfolio link here.
+K.W.A.R. Karunarathna
+Student
+Github : https://github.com/info-ashenrsh/
+
